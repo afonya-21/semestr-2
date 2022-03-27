@@ -1,0 +1,16 @@
+﻿  AAAGames.cpp
+  AAAGames.h
+  FirstGeneration.cpp
+  Game.cpp
+  HorizonZeroDawn.cpp
+  Mario.cpp
+  MetroExodus.cpp
+  MetroExodus.h
+  Pac-man.cpp
+  SecondGeneration.cpp
+  SetOfGame.cpp
+  Source.cpp
+  Создание кода...
+x64\Debug\AAAGames.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+x64\Debug\MetroExodus.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Kir.vcxproj -> C:\Users\Alex\source\repos\Kir\x64\Debug\Kir.exe
